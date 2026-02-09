@@ -99,9 +99,9 @@
 
 با ❤️ برای عاشقان برنامه‌نویسی 💯
 
-[پارت قبلی](./2_Programming_Fields.md)
+[قسمت قبلی](./2_Programming_Fields.md)
 
-[پارت بعدی](./4_Making_Money.md)
+[قسمت بعدی](./4_Making_Money.md)
 
 
 

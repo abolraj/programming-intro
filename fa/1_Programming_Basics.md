@@ -125,7 +125,7 @@
 
 با ❤️ برای عاشقان برنامه‌نویسی 💯
 
-[پارت بعدی](./2_Programming_Fields.md)
+[قسمت بعدی](./2_Programming_Fields.md)
 
 
 

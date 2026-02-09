@@ -132,9 +132,9 @@ IoT به **سرعت در حال گسترش** است زیرا دستگاه‌ها
 
 با ❤️ برای عاشقان برنامه‌نویسی 💯
 
-[پارت قبلی](./1_Programming_Basics.md)
+[قسمت قبلی](./1_Programming_Basics.md)
 
-[پارت بعدی](./3_Learning_Methods.md)
+[قسمت بعدی](./3_Learning_Methods.md)
 
 
 
