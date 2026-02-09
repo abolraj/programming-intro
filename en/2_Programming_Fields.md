@@ -132,3 +132,9 @@ With ❤️ For the programming lovers 💯
 
 
 [Previous Episode](./1_Programming_Basics.md)
+
+[Next Episode](./3_Learning_Methods.md)
+
+
+
+[Back To Home](./Main.md)
