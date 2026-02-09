@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 [English](./en/1_Programming_Basics.md)
 
 [فارسی](./fa/1_Programming_Basics.md)
