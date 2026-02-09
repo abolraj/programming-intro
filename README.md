@@ -1,6 +1,6 @@
 [English](./en/1_Programming_Basics.md)
 
-[فارسی](./en/1_Programming_Basics.md)
+[فارسی](./fa/1_Programming_Basics.md)
 
 ### 📜 Copyright & Sharing
 © **[Abolfazl Rajaee Nasab](https://abolfazlrajaee.ir)** – Full-Stack Web Developer  
