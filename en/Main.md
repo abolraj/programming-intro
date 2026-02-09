@@ -1,3 +1,5 @@
+![Banner](../banner.png)
+
 # Welcome to Programming! 🌟
 
 Your journey into the world of code starts here.
