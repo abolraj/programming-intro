@@ -1,8 +1,8 @@
 ![Banner](./banner.png)
 
-[English](./en/1_Programming_Basics.md)
+[English](./en/Main.md)
 
-[فارسی](./fa/1_Programming_Basics.md)
+[فارسی](./fa/Main.md)
 
 ### 📜 Copyright & Sharing
 © **[Abolfazl Rajaee Nasab](https://abolfazlrajaee.ir)** – Full-Stack Web Developer  
